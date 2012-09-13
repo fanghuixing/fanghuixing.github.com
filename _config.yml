@@ -8,13 +8,13 @@ var:
   categories_path : /categories.html
   tags_path : /tags.html
 
-production_url : http://username.github.com # or your custom domain name
-title : Jekyll Boostrap
+production_url : http://fanghuixing.github.com # or your custom domain name
+title : Hybrid
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : Huixing Fang
+  email : fang.huixing@gmail.com
+  github : fanghuixing
   twitter : username
   feedbuder : feedname
 
