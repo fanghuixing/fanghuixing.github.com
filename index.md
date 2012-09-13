@@ -1,45 +1,44 @@
 ---
 layout: page
-title: Hello from Jekyll-Bootstrap
-header: This is Jekyll-Bootstrap
+title: Formal methods
+header: Hybrid-Formal methods
+img_url: http://fanghuixing.github.com/assets/images
 ---
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/jekyll-quick-start.html)
+###Name:
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllboostrap.com)
+    Huixing Fang
 
-## Update Author Attributes
+###Present:
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+    Student at East China Normal University, September 2010 - Present (2 years 1 month)
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+###Previous:
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+    Software Engineer
+    Shanghai NANTIAN Computer System Co.,Ltd
+    July 2006 - June 2009 (3 years) Shanghai,China
+    Developed monitoring software of ATM for Zhejiang Branch of Agricultural Bank of China. 
+    Requirements Analysis. Business logic module development. Java, Struts2, Jsp, Html, Ajax, JQuery, Birt, JDBC.
 
-    $ rm -rf _posts/core-samples
+    Developed ATM software for Zhejiang Branch of Agricultural Bank of China.
+    User interface. Scripts for running steps. Manual Tests. Html, Javascript, Java.
 
-Here's a sample "posts list".
+    Developed ATM software for Bank of Nanchang. Participated in technology selection and prototype development. Html, Javascript, Java, Jsp, Spring.
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
 
-## To-Do
+###Education:
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+    East China Normal University
+     MS, Model Checking, CS
+     2010 - 2013 (expected)
+	
+    Yunnan University
+     BC, Computer Science
+     2002 - 2006
+	
+
+
+
 
 
