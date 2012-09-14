@@ -5,7 +5,7 @@ header: Hybrid-Formal methods
 img_url: http://fanghuixing.github.com/assets/images
 ---
 ![Huixing Fang](assets/images/13238568880001740m.jpg)
-###Huixing Fang
+###Huixing Fang (email: fang.huixing at gmail.com)
 
 	
 
