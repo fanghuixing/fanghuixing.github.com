@@ -6,7 +6,7 @@ pygments: true
 var:
   archive_path: /archive.html
   categories_path : /categories.html
-  tags_path : /tags.html
+  tag_path : /tag.html
 
 production_url : http://fanghuixing.github.com # or your custom domain name
 title : Hybrid
