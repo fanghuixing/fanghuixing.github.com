@@ -11,7 +11,7 @@ img_url: http://fanghuixing.github.com/assets/images
 
 ###Present:
 
-    Student at East China Normal University, September 2010 - Present (2 years 1 month)
+    Student at East China Normal University, September 2010 - Present
 
 ###Previous:
 
