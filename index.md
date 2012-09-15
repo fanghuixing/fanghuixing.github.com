@@ -32,12 +32,14 @@ Developed ATM software for Bank of Nanchang. Participated in technology selectio
 
 ###Education:
 
-    **East China Normal University**
-     MS, Model Checking, CS
+**East China Normal University**
+     
+	 MS, Model Checking, CS
      2010 - 2013 (expected)
 	
-    **Yunnan University**
-     BC, Computer Science
+**Yunnan University**
+     
+	 BC, Computer Science
      2002 - 2006
 	
 
