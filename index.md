@@ -11,7 +11,7 @@ img_url: http://fanghuixing.github.com/assets/images
 
 
 ###Huixing Fang 
-*    fang.huixing at gmail.com
+*    Email: fang.huixing at gmail.com
 
 
 ###Present:
