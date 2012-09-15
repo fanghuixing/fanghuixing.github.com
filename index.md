@@ -15,8 +15,8 @@ img_url: http://fanghuixing.github.com/assets/images
 
 ###Previous:
 
-    **Software Engineer**
-    **Shanghai NANTIAN Computer System Co.,Ltd**
+**Software Engineer**
+**Shanghai NANTIAN Computer System Co.,Ltd**
     July 2006 - June 2009 (3 years) Shanghai,China
     Developed monitoring software of ATM for Zhejiang Branch of Agricultural Bank of China. 
     Requirements Analysis. Business logic module development. Java, Struts2, Jsp, Html, Ajax, JQuery, Birt, JDBC.
