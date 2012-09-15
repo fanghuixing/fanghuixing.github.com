@@ -5,14 +5,19 @@ header: Hybrid-Formal methods
 img_url: http://fanghuixing.github.com/assets/images
 ---
 ![Huixing Fang](assets/images/13238568880001740m.jpg)
+
+***
+
 ###Huixing Fang 
 *    fang.huixing at gmail.com
 
-	
+***	
 
 ###Present:
 
 *    Student at East China Normal University, September 2010 - Present
+
+***
 
 ###Previous:
 
@@ -28,6 +33,7 @@ img_url: http://fanghuixing.github.com/assets/images
 	 
 *	 Developed ATM software for Bank of Nanchang. Participated in technology selection and prototype development.  Html, Javascript, Java, Jsp, Spring.
 
+***
 
 ###Education:
 
@@ -40,8 +46,10 @@ img_url: http://fanghuixing.github.com/assets/images
      
 	 BC, Computer Science
      2002 - 2006
-	
 
+	 
+***
+	
 ###Publications:
 
 *    Huixing Fang, Jian Guo, Huibiao Zhu, Jianqi Shi: Formal Verification and Simulation: Co-verification for Subway Control Systems. TASE 2012: 145-152
