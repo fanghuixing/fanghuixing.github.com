@@ -4,14 +4,15 @@ title: Formal methods
 header: Hybrid-Formal methods
 img_url: http://fanghuixing.github.com/assets/images
 ---
-![Huixing Fang](assets/images/13238568880001740m.jpg)
 
-***
+
+<img src="assets/images/13238568880001740m.jpg" style="FLOAT: right; MARGIN-BOTTOM: 10px; MARGIN-RIGHT: 20px">
+
+
 
 ###Huixing Fang 
 *    fang.huixing at gmail.com
 
-***	
 
 ###Present:
 
