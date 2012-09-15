@@ -19,25 +19,25 @@ img_url: http://fanghuixing.github.com/assets/images
 
 **Shanghai NANTIAN Computer System Co.,Ltd**
  
- July 2006 - June 2009 (3 years) Shanghai,China
+     July 2006 - June 2009 (3 years) Shanghai,China
  
- Developed monitoring software of ATM for Zhejiang Branch of Agricultural Bank of China. 
- Requirements Analysis. Business logic module development. Java, Struts2, Jsp, Html, Ajax, JQuery, Birt, JDBC.
+     Developed monitoring software of ATM for Zhejiang Branch of Agricultural Bank of China. 
+     Requirements Analysis. Business logic module development. Java, Struts2, Jsp, Html, Ajax, JQuery, Birt, JDBC.
 
- Developed ATM software for Zhejiang Branch of Agricultural Bank of China.
- User interface. Scripts for running steps. Manual Tests. Html, Javascript, Java.
+     Developed ATM software for Zhejiang Branch of Agricultural Bank of China.
+     User interface. Scripts for running steps. Manual Tests. Html, Javascript, Java.
 
-Developed ATM software for Bank of Nanchang. Participated in technology selection and prototype development. Html, Javascript, Java, Jsp, Spring.
+    Developed ATM software for Bank of Nanchang. Participated in technology selection and prototype development. Html, Javascript, Java, Jsp, Spring.
 
 
 ###Education:
 
-**East China Normal University**
+**East China Normal University:**
      
 	 MS, Model Checking, CS
      2010 - 2013 (expected)
 	
-**Yunnan University**
+**Yunnan University:**
      
 	 BC, Computer Science
      2002 - 2006
