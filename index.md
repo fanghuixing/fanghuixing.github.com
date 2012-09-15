@@ -26,8 +26,8 @@ img_url: http://fanghuixing.github.com/assets/images
 
      Developed ATM software for Zhejiang Branch of Agricultural Bank of China.
      User interface. Scripts for running steps. Manual Tests. Html, Javascript, Java.
-
-    Developed ATM software for Bank of Nanchang. Participated in technology selection and prototype development. Html, Javascript, Java, Jsp, Spring.
+	 
+	 Developed ATM software for Bank of Nanchang. Participated in technology selection and prototype development.  Html, Javascript, Java, Jsp, Spring.
 
 
 ###Education:
