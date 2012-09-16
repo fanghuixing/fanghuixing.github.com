@@ -24,8 +24,8 @@ author :
 # Set 'provider' to false to turn commenting off globally.
 #
 comments :
-  provider : livefyre
-  livefyre : 
-    site_id : 311984
+  provider : disqus
+  disqus : 
+    short_name : fanghuixing
   
 exclude: .rbenv-version
