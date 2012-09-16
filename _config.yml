@@ -17,5 +17,15 @@ author :
   github : fanghuixing
   twitter : username
   feedbuder : feedname
-
+  
+  
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use.
+# Set 'provider' to false to turn commenting off globally.
+#
+comments :
+  provider : livefyre
+  livefyre : 
+    site_id : 311984
+  
 exclude: .rbenv-version
