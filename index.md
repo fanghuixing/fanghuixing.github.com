@@ -57,9 +57,16 @@ img_url: http://fanghuixing.github.com/assets/images
 
 *   Jianqi Shi, Longfei Zhu, Yanhong Huang, Jian Guo, Huibiao Zhu, Huixing Fang, Xin Ye: Binary Code Level Verification for Interrupt Safety Properties of Real-Time Operating System. TASE 2012: 223-22
 
+*   Jianqi Shi, Longfei Zhu, Huixing Fang, Jian Guo, Huibiao Zhu, Xin Ye: xBIL - A Hardware Resource Oriented Binary Intermediate Language. ICECCS 2012: 211-219
+
+
+*   Jianqi Shi, Jifeng He, Huibiao Zhu, Huixing Fang, Yanhong Huang, Xiaoxian Zhang: ORIENTAIS: Formal Verified OSEK/VDX Real-Time Operating System. ICECCS 2012: 293-301
+
+
 ###Link:
 <li>
 <a href="http://ictac2013.ecnu.edu.cn/index.htm">The 10th International Colloquium on Theoretical Aspects of Computing,http://ictac2013.ecnu.edu.cn/index.htm</a>
 </li> 
+
 
 
