@@ -65,7 +65,8 @@ img_url: http://fanghuixing.github.com/assets/images
 
 ###Link:
 <li>
-<a href="http://ictac2013.ecnu.edu.cn/index.htm">The 10th International Colloquium on Theoretical Aspects of Computing,http://ictac2013.ecnu.edu.cn/index.htm</a>
+<a href="http://ictac2013.ecnu.edu.cn/index.htm">
+The 10th International Colloquium on Theoretical Aspects of Computing</a>
 </li> 
 
 
