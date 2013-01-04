@@ -70,6 +70,10 @@ img_url: http://fanghuixing.github.com/assets/images
 <a href="http://ictac2013.ecnu.edu.cn/index.htm">
 The 10th International Colloquium on Theoretical Aspects of Computing</a>
 </li> 
+<li>
+<a href="http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fang:Huixing.html">
+DBLP</a>
+</li> 
 
 
 
