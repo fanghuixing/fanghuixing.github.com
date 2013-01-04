@@ -74,6 +74,11 @@ The 10th International Colloquium on Theoretical Aspects of Computing</a>
 <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fang:Huixing.html">
 DBLP</a>
 </li> 
+<li>
+<a href="http://cn.linkedin.com/pub/huixing-fang/3a/1b2/31">
+Linkedin</a>
+</li> 
+
 
 
 
