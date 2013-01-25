@@ -82,6 +82,11 @@ Linkedin</a>
 <a href="http://tug.org/PSTricks/main.cgi?file=doc/docs">
 PSTricks</a>
 </li> 
+<li>
+<a href="http://www.texample.net/tikz/">
+TikZ and PGF</a>
+</li> 
+
 
 
 
