@@ -66,28 +66,17 @@ img_url: http://fanghuixing.github.com/assets/images
 ***
 
 ###Link:
-<li>
-<a href="http://ictac2013.ecnu.edu.cn/index.htm">
-The 10th International Colloquium on Theoretical Aspects of Computing</a>
-</li> 
-<li>
-<a href="http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fang:Huixing.html">
-DBLP</a>
-</li> 
-<li>
-<a href="http://cn.linkedin.com/pub/huixing-fang/3a/1b2/31">
-Linkedin</a>
-</li> 
-<li>
-<a href="http://tug.org/PSTricks/main.cgi?file=doc/docs">
-PSTricks</a>
-</li> 
-<li>
-<a href="http://www.texample.net/tikz/">
-TikZ and PGF</a>
-</li> 
 [google]: http://google.com/        "Google"
-
+[ictac]: http://ictac2013.ecnu.edu.cn/index.htm   "ICTAC"
+[dblp]: http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fang:Huixing.html   "DBLP"
+[linkedin]: http://cn.linkedin.com/pub/huixing-fang/3a/1b2/31    "LinkedIn"
+[pstriks]: http://tug.org/PSTricks/main.cgi?file=doc/docs    "PSTricks"
+[tikz]: http://www.texample.net/tikz/ "Tikz and PGF"
 *  [Google][] 
+*  [ICTAC][] 
+*  [DBLP][] 
+*  [LinkedIn][] 
+*  [PSTricks][] 
+*  [Tikz][] 
 
 
