@@ -78,6 +78,10 @@ DBLP</a>
 <a href="http://cn.linkedin.com/pub/huixing-fang/3a/1b2/31">
 Linkedin</a>
 </li> 
+<li>
+<a href="http://tug.org/PSTricks/main.cgi?file=doc/docs">
+PSTricks</a>
+</li> 
 
 
 
