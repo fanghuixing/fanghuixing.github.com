@@ -70,7 +70,7 @@ img_url: http://fanghuixing.github.com/assets/images
 [ictac]: http://ictac2013.ecnu.edu.cn/index.htm   "ICTAC"
 [dblp]: http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fang:Huixing.html   "DBLP"
 [linkedin]: http://cn.linkedin.com/pub/huixing-fang/3a/1b2/31    "LinkedIn"
-[pstriks]: http://tug.org/PSTricks/main.cgi?file=doc/docs    "PSTricks"
+[pstriks]: http://tug.org/PSTricks/    "PSTricks"
 [tikz]: http://www.texample.net/tikz/ "Tikz and PGF"
 *  [Google][] 
 *  [ICTAC][] 
