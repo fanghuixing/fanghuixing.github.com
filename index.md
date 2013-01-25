@@ -76,7 +76,7 @@ DBLP</a>
 </li> 
 <li>
 <a href="http://cn.linkedin.com/pub/huixing-fang/3a/1b2/31">
-Linkedin__</a>
+Linkedin</a>
 </li> 
 
 
