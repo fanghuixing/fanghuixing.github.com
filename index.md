@@ -76,7 +76,7 @@ img_url: http://fanghuixing.github.com/assets/images
 *  [ICTAC][] 
 *  [DBLP][] 
 *  [LinkedIn][] 
-*  [PSTricks][] 
+*  [PST][] 
 *  [Tikz][] 
 
 
