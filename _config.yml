@@ -27,9 +27,8 @@ comments :
   provider : disqus
   disqus : 
     short_name : fanghuixing
-  
-exclude: .rbenv-version
 
+	
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
 # Set 'provider' to false to turn analytics off globally.
@@ -37,4 +36,9 @@ exclude: .rbenv-version
 analytics :
   provider : google
   google : 
-      tracking_id : 'UA-38748289-1'
+      tracking_id : 'UA-38748289-1' 
+	  
+	  
+exclude: .rbenv-version
+
+
