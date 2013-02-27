@@ -7,8 +7,8 @@ img_url: http://fanghuixing.github.com/assets/images
 
 
 <img src="assets/images/13238568880001740m.jpg" style="FLOAT: right; MARGIN-BOTTOM: 10px; MARGIN-RIGHT: 20px">
-<img src="assets/images/name.jpg" style="FLOAT: left; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 20px">
-
+<img src="assets/images/name.jpg" style="FLOAT: left; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 5px">
+</br>
 
 ###Huixing Fang 
 *    Email: fang.huixing at gmail.com
