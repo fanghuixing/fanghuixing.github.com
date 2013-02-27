@@ -79,4 +79,4 @@ img_url: http://fanghuixing.github.com/assets/images
 *  [Tikz][] 
 
 
-<img src="assets/images/name.jpg" style="FLOAT: right; MARGIN-BOTTOM: 0px; MARGIN-right: 5px;height=30 width=82">
+<img src="assets/images/name.jpg" style="FLOAT: right; MARGIN-BOTTOM: 0px; MARGIN-right: 5px;height='30px' width='82px'">
