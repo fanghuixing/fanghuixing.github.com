@@ -54,7 +54,7 @@ img_url: http://fanghuixing.github.com/assets/images
 
 *    Huixing Fang, Jian Guo, Huibiao Zhu, Jianqi Shi: Formal Verification and Simulation: Co-verification for Subway Control Systems. TASE 2012: 145-152
 
-*   Jianqi Shi, Longfei Zhu, Yanhong Huang, Jian Guo, Huibiao Zhu, Huixing Fang, Xin Ye: Binary Code Level Verification for Interrupt Safety Properties of Real-Time Operating System. TASE 2012: 223-22
+*   Jianqi Shi, Longfei Zhu, Yanhong Huang, Jian Guo, Huibiao Zhu, Huixing Fang, Xin Ye: Binary Code Level Verification for Interrupt Safety Properties of Real-Time Operating System. TASE 2012: 223-226
 
 *   Jianqi Shi, Longfei Zhu, Huixing Fang, Jian Guo, Huibiao Zhu, Xin Ye: xBIL - A Hardware Resource Oriented Binary Intermediate Language. ICECCS 2012: 211-219
 
@@ -80,3 +80,16 @@ img_url: http://fanghuixing.github.com/assets/images
 
 
 <img src="assets/images/name.jpg" style="FLOAT: right; MARGIN-BOTTOM: 0px; MARGIN-right: 5px;height: 30px;width: 82px;">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38748289-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
