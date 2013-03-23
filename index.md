@@ -71,12 +71,14 @@ img_url: http://fanghuixing.github.com/assets/images
 [linkedin]: http://cn.linkedin.com/pub/huixing-fang/3a/1b2/31    "LinkedIn"
 [PSTricks]: http://tug.org/PSTricks/    "PSTricks"
 [tikz]: http://www.texample.net/tikz/ "Tikz and PGF"
+[Hui Culture]: http://www.go2huangshan.com/info/12.aspx "Hui Culture"
 *  [Google][] 
 *  [ICTAC][] 
 *  [DBLP][] 
 *  [LinkedIn][] 
 *  [PSTricks][] 
 *  [Tikz][] 
+*  [Hui Culture][]
 
 
 <img src="assets/images/name.jpg" style="FLOAT: right; MARGIN-BOTTOM: 0px; MARGIN-right: 5px;height: 30px;width: 82px;">
