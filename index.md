@@ -80,6 +80,7 @@ img_url: http://fanghuixing.github.com/assets/images
 *  [Tikz][] 
 *  [Hui Culture][]
 
+***
 
 <img src="assets/images/name.jpg" style="FLOAT: right; MARGIN-BOTTOM: 0px; MARGIN-right: 5px;height: 30px;width: 82px;">
 <script type="text/javascript">
