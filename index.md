@@ -52,7 +52,7 @@ img_url: http://fanghuixing.github.com/assets/images
 	
 ###Publications:
 
-*    Huixing Fang, Jian Guo, Huibiao Zhu, Jianqi Shi: Formal Verification and Simulation: Co-verification for Subway Control Systems. TASE 2012: 145-152
+*    Huixing Fang, Jian Guo, Huibiao Zhu, Jianqi Shi: Formal Verification and Simulation: Co-verification for Subway Control Systems. TASE 2012: 145-152 <a href="assets/files/TASE2012/Formal Verification and Simulation Co-Verification for Subway Control Systems.pdf">PDF</a>
 
 *   Jianqi Shi, Longfei Zhu, Yanhong Huang, Jian Guo, Huibiao Zhu, Huixing Fang, Xin Ye: Binary Code Level Verification for Interrupt Safety Properties of Real-Time Operating System. TASE 2012: 223-226
 
