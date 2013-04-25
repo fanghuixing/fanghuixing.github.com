@@ -66,7 +66,7 @@ img_url: http://fanghuixing.github.com/assets/images
 ***
 ###Drafts:
 * Huixing Fang, Huibiao Zhu, Jianqi Shi: Apricot: An Object-Oriented Modeling Language for Hybrid Systems. 
-<a href="assets/files/Apricot/ECNU-SEI-FM-Report-2013-04-041709-Apricot.PDF">PDF</a>
+<a href="assets/files/Apricot/ECNU-SEI-FM-Report-2013-04-041709-Apricot.pdf">PDF</a>
 
 ***
 
