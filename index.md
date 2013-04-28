@@ -73,7 +73,7 @@ img_url: http://fanghuixing.github.com/assets/images
 
 ***
 
-###Link:
+###Links:
 [google]: http://google.com/        "Google"
 [ictac]: http://ictac2013.ecnu.edu.cn/index.htm   "ICTAC"
 [dblp]: http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fang:Huixing.html   "DBLP"
@@ -81,6 +81,7 @@ img_url: http://fanghuixing.github.com/assets/images
 [PSTricks]: http://tug.org/PSTricks/    "PSTricks"
 [tikz]: http://www.texample.net/tikz/ "Tikz and PGF"
 [Hui Culture]: http://www.go2huangshan.com/info/12.aspx "Hui Culture"
+[MAP24]: http://www.dk.map24.com/ "map24"
 *  [Google][] 
 *  [ICTAC][] 
 *  [DBLP][] 
@@ -88,6 +89,7 @@ img_url: http://fanghuixing.github.com/assets/images
 *  [PSTricks][] 
 *  [Tikz][] 
 *  [Hui Culture][]
+*  [map24][] 
 
 ***
 
