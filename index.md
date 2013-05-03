@@ -91,7 +91,7 @@ img_url: http://fanghuixing.github.com/assets/images
 *  [Tikz][] 
 *  [Hui Culture][]
 *  [map24][] 
-*  [GeoGebra][][Dynamic mathematics & science for learning and teaching]
+*  [GeoGebra][][--Dynamic mathematics & science for learning and teaching]
 
 ***
 
