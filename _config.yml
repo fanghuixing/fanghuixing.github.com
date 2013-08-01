@@ -22,13 +22,7 @@ author :
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use.
 # Set 'provider' to false to turn commenting off globally.
-#
-comments :
-  provider : disqus
-  disqus : 
-    short_name : fanghuixing
-
-	
+#	
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
 # Set 'provider' to false to turn analytics off globally.
@@ -36,9 +30,7 @@ comments :
 analytics :
   provider : google
   google : 
-      tracking_id : 'UA-38748289-1' 
-	  
-	  
+      tracking_id : 'UA-38748289-1' 	  	  
 exclude: .rbenv-version
 
 
