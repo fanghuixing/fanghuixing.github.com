@@ -16,7 +16,7 @@ img_url: http://fanghuixing.github.com/assets/images
 ###Present:
 
 *    Student at East China Normal University, September 2010 - Present
-*    He is a PhD student in Software Engineering Institute, East China 	 Normal University, Shanghai, China. His interests range from programming 	   	languages, machine learning to program analysis and the formal verification 	and simulation on hybrid systems. Before the PhD study in ECNU, he was a 	developer of the ATM (Automatic Teller Machine) software for various Chinese 	banks.
+*    He is a PhD student in Software Engineering Institute, East China Normal University, Shanghai, China. His interests range from programming languages, machine learning to program analysis and the formal verification and simulation on hybrid systems. Before the PhD study in ECNU, he was a developer of the ATM (Automatic Teller Machine) software for various Chinese banks.
 
 ***
 
