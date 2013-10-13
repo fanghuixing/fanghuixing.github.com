@@ -84,6 +84,7 @@ img_url: http://fanghuixing.github.com/assets/images
 [Hui Culture]: http://www.go2huangshan.com/info/12.aspx "Hui Culture"
 [MAP24]: http://www.dk.map24.com/ "map24"
 [geogebra]: http://www.geogebratube.org/ "GeoGebra"
+[apricot]: /apricot "Apricot"
 *  [Google][] 
 *  [ICTAC][] 
 *  [DBLP][] 
@@ -93,6 +94,7 @@ img_url: http://fanghuixing.github.com/assets/images
 *  [Hui Culture][]
 *  [map24][] 
 *  [GeoGebra][]
+*  [Apricot][]
 
 ***
 
