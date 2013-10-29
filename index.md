@@ -54,6 +54,7 @@ img_url: http://fanghuixing.github.com/assets/images
 ###Publications:
 
 *    Huixing Fang, Jian Guo, Huibiao Zhu, Jianqi Shi: Formal Verification and Simulation: Co-verification for Subway Control Systems. TASE 2012: 145-152 
+
 <a href="assets/files/TASE2012/Formal Verification and Simulation Co-Verification for Subway Control Systems.PDF">PDF</a>
 
 *   Jianqi Shi, Longfei Zhu, Yanhong Huang, Jian Guo, Huibiao Zhu, Huixing Fang, Xin Ye: Binary Code Level Verification for Interrupt Safety Properties of Real-Time Operating System. TASE 2012: 223-226
@@ -67,8 +68,10 @@ img_url: http://fanghuixing.github.com/assets/images
 ***
 ###Drafts:
 * Huixing Fang, Huibiao Zhu, Jianqi Shi: Apricot: An Object-Oriented Modeling Language for Hybrid Systems. 
-<a href="assets/files/Apricot/ECNU-SEI-FM-Report-2013-04-041709-Apricot.pdf">PDF</a>
 
+#+BEGIN_COMMENT
+<a href="assets/files/Apricot/ECNU-SEI-FM-Report-2013-04-041709-Apricot.pdf">PDF</a>
+#+END_COMMENT
 
 * Huixing Fang, Huibiao Zhu, Jianqi Shi: Formal Verification of Hybrid Systems by Apricot. 
 
