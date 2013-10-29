@@ -16,7 +16,7 @@ img_url: http://fanghuixing.github.com/assets/images
 ###Present:
 
 *    Student at East China Normal University, September 2010 - Present
-*    He is a PhD student in Software Engineering Institute, East China Normal University, Shanghai, China. His interests range from programming languages, machine learning to program analysis and the formal verification and simulation on hybrid systems. Before the PhD study in ECNU, he was a developer of the ATM (Automatic Teller Machine) software for various Chinese banks.
+*    He is a Ph.D student in Software Engineering Institute, East China Normal University, Shanghai, China. His interests range from programming languages, machine learning to program analysis and the formal verification and simulation on hybrid systems. Before the Ph.D study in ECNU, he was a developer of the ATM (Automatic Teller Machine) software for various Chinese banks.
 
 ***
 
@@ -53,9 +53,7 @@ img_url: http://fanghuixing.github.com/assets/images
 	
 ###Publications:
 
-*    Huixing Fang, Jian Guo, Huibiao Zhu, Jianqi Shi: Formal Verification and Simulation: Co-verification for Subway Control Systems. TASE 2012: 145-152 
-
-<a href="assets/files/TASE2012/Formal Verification and Simulation Co-Verification for Subway Control Systems.PDF">PDF</a>
+*    Huixing Fang, Jian Guo, Huibiao Zhu, Jianqi Shi: Formal Verification and Simulation: Co-verification for Subway Control Systems. TASE 2012: 145-152 <a href="assets/files/TASE2012/Formal Verification and Simulation Co-Verification for Subway Control Systems.PDF">PDF</a>
 
 *   Jianqi Shi, Longfei Zhu, Yanhong Huang, Jian Guo, Huibiao Zhu, Huixing Fang, Xin Ye: Binary Code Level Verification for Interrupt Safety Properties of Real-Time Operating System. TASE 2012: 223-226
 
