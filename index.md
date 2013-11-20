@@ -60,7 +60,7 @@ img_url: http://fanghuixing.github.com/assets/images
 *   Jianqi Shi, Longfei Zhu, Huixing Fang, Jian Guo, Huibiao Zhu, Xin Ye: xBIL - A Hardware Resource Oriented Binary Intermediate Language. ICECCS 2012: 211-219
 
 
-*   Jianqi Shi, Jifeng He, Huibiao Zhu, Huixing Fang, Yanhong Huang, Xiaoxian Zhang: ORIENTAIS: Formal Verified OSEK/VDX Real-Time Operating System. ICECCS 2012: 293-301
+*   Jianqi Shi, Jifeng He, Huibiao Zhu, Huixing Fang, Yanhong Huang, Xiaoxian Zhang: ORIENTAIS: Formal Verified OSEK/VDX Real-Time Operating System. ICECCS 2012: 293-301.
 
 
 ***
@@ -92,6 +92,7 @@ img_url: http://fanghuixing.github.com/assets/images
 *  [map24][] 
 *  [GeoGebra][]
 *  [Apricot][]
+
 
 ***
 
