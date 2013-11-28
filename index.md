@@ -82,6 +82,7 @@ img_url: http://fanghuixing.github.com/assets/images
 [MAP24]: http://www.dk.map24.com/ "map24"
 [geogebra]: http://www.geogebratube.org/ "GeoGebra"
 [apricot]: http://www.apricotresearch.com/ "Apricot"
+[zdic]: http://www.zdic.net/ "ZDIC"
 *  [Google][] 
 *  [ICTAC][] 
 *  [DBLP][] 
@@ -92,6 +93,7 @@ img_url: http://fanghuixing.github.com/assets/images
 *  [map24][] 
 *  [GeoGebra][]
 *  [Apricot][]
+*  [ZDIC][]
 
 
 ***
