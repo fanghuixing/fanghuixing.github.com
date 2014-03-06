@@ -81,6 +81,7 @@ img_url: http://fanghuixing.github.com/assets/images
 [geogebra]: http://www.geogebratube.org/ "GeoGebra"
 [apricot]: http://www.apricotresearch.com/ "Apricot"
 [zdic]: http://www.zdic.net/ "ZDIC"
+[game]: game.html "GAME"
 *  [Google][] 
 *  [ICTAC][] 
 *  [DBLP][] 
@@ -92,7 +93,7 @@ img_url: http://fanghuixing.github.com/assets/images
 *  [GeoGebra][]
 *  [Apricot][]
 *  [ZDIC][]
-
+*  [GAME][]
 
 ***
 
