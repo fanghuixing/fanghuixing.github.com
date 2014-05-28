@@ -51,6 +51,8 @@ img_url: http://fanghuixing.github.com/assets/images
 	
 ###Publications:
 
+*    Huixing Fang, Jianqi Shi, Huibiao Zhu, Jian Guo, Kim Guldstrand Larsen, Alexandre David: Formal Verification and Simulation for Platform Screen Doors and Collision Avoidance in Subway Control Systems. International Journal on Software Tools for Technology Transfer (STTT), Springer Berlin Heidelberg, 2014 <a href="http://link.springer.com/article/10.1007/s10009-014-0318-1">LINK</a>
+
 *    Huixing Fang, Jian Guo, Huibiao Zhu, Jianqi Shi: Formal Verification and Simulation: Co-verification for Subway Control Systems. TASE 2012: 145-152 <a href="assets/files/TASE2012/Formal Verification and Simulation Co-Verification for Subway Control Systems.PDF">PDF</a>
 
 *   Jianqi Shi, Longfei Zhu, Yanhong Huang, Jian Guo, Huibiao Zhu, Huixing Fang, Xin Ye: Binary Code Level Verification for Interrupt Safety Properties of Real-Time Operating System. TASE 2012: 223-226
