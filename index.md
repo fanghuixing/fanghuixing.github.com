@@ -51,7 +51,7 @@ img_url: http://fanghuixing.github.com/assets/images
 	
 ###Publications:
 
-*    Alexandre David1, Huixing Fang, Kim G. Larsen, and Zhengkui Zhang: Verification and Performance Evaluation of Timed Game Strategies. FORMATS 2014
+*    Alexandre David, Huixing Fang, Kim G. Larsen, and Zhengkui Zhang: Verification and Performance Evaluation of Timed Game Strategies. FORMATS 2014
 
 *    Huixing Fang, Jianqi Shi, Huibiao Zhu, Jian Guo, Kim Guldstrand Larsen, Alexandre David: Formal Verification and Simulation for Platform Screen Doors and Collision Avoidance in Subway Control Systems. International Journal on Software Tools for Technology Transfer (STTT), Springer Berlin Heidelberg, 2014 <a href="http://link.springer.com/article/10.1007/s10009-014-0318-1">LINK</a>
 
