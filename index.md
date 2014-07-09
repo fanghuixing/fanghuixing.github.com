@@ -38,8 +38,8 @@ img_url: http://fanghuixing.github.com/assets/images
 
 *    East China Normal University:
      
-	 MS, Model Checking, CS
-     2010 - 2013 (expected)
+	 MS, Model Checking, PhD
+     2010 - 2015 (expected)
 	
 *    Yunnan University:
      
