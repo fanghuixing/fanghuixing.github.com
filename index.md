@@ -96,18 +96,7 @@ img_url: http://fanghuixing.github.com/assets/images
 [apricot]: http://www.apricotresearch.com/ "Apricot"
 [zdic]: http://www.zdic.net/ "ZDIC"
 [game]: game.html "GAME"
-*  [Google][] 
-*  [ICTAC][] 
-*  [DBLP][] 
-*  [LinkedIn][] 
-*  [PSTricks][] 
-*  [Tikz][] 
-*  [Hui Culture][]
-*  [map24][] 
-*  [GeoGebra][]
-*  [Apricot][]
-*  [ZDIC][]
-*  [GAME][]
+*  [Google][],    [ICTAC][],  [DBLP][], [LinkedIn][],   [PSTricks][],  [Tikz][], [Hui Culture][],  [map24][],  [GeoGebra][],  [Apricot][],  [ZDIC][],  [GAME][]
 
 ***
 
