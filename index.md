@@ -50,6 +50,8 @@ img_url: http://fanghuixing.github.com/assets/images
 ***
 	
 ###Publications:
+*   Huixing Fang, Huibiao Zhu, Jianqi Shi: An Object-Oriented Language for Modeling of Hybrid Systems. (Accepted by HASE 2015, <a href="assets/files/ApricotApricot.pdf"> PDF </a>)
+
 
 *    Alexandre David, Huixing Fang, Kim G. Larsen, and Zhengkui Zhang: Verification and Performance Evaluation of Timed Game Strategies. FORMATS 2014
 
@@ -65,11 +67,13 @@ img_url: http://fanghuixing.github.com/assets/images
 *   Jianqi Shi, Jifeng He, Huibiao Zhu, Huixing Fang, Yanhong Huang, Xiaoxian Zhang: ORIENTAIS: Formal Verified OSEK/VDX Real-Time Operating System. ICECCS 2012: 293-301.
 
 
+
+
+
 ***
 
 ###Drafts:
 
-* Huixing Fang, Huibiao Zhu, Jianqi Shi: Apricot: An Object-Oriented Modeling Language for Hybrid Systems. <a href="assets/files/Apricot/Apricot.pdf">PDF</a>
 
 * Huixing Fang, Huibiao Zhu, Jianqi Shi: Formal Verification of Hybrid Systems by Apricot. 
 
