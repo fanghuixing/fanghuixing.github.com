@@ -78,7 +78,7 @@ img_url: http://fanghuixing.github.com/assets/images
 * Huixing Fang, Huibiao Zhu, Jianqi Shi: Formal Verification of Hybrid Systems by Apricot. 
 
 
-* Huixing Fang, Jifeng He, Qiwen Xu, Huibiao Zhu, Longfei Zhu: Formal Modelling and Verification of Hybrid Systems by Hybrid Relational Approach. (See <a href="/assets/files/FTSCS/HML.pdf">PDF</a>)
+* Huixing Fang, Jifeng He, Qiwen Xu, Huibiao Zhu, Longfei Zhu: Formal Modelling and Verification of Hybrid Systems by Hybrid Relational Approach. (See <a href="/assets/files/HML/HML.pdf">PDF</a>)
 
 
 ***
