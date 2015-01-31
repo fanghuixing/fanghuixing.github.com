@@ -55,7 +55,7 @@ img_url: http://fanghuixing.github.com/assets/images
 
 *    Alexandre David, Huixing Fang, Kim G. Larsen, and Zhengkui Zhang: Verification and Performance Evaluation of Timed Game Strategies. FORMATS 2014
 
-*    Huixing Fang, Jianqi Shi, Huibiao Zhu, Jian Guo, Kim Guldstrand Larsen, Alexandre David: Formal Verification and Simulation for Platform Screen Doors and Collision Avoidance in Subway Control Systems. International Journal on Software Tools for Technology Transfer (STTT), Springer Berlin Heidelberg, 2014 <a href="http://link.springer.com/article/10.1007/s10009-014-0318-1">LINK</a> (DOI:10.1007/s10009-014-0318-1)
+*    Huixing Fang, Jianqi Shi, Huibiao Zhu, Jian Guo, Kim Guldstrand Larsen, Alexandre David: Formal Verification and Simulation for Platform Screen Doors and Collision Avoidance in Subway Control Systems. International Journal on Software Tools for Technology Transfer (STTT), Springer Berlin Heidelberg, 2014 <a href="/assets/files/STTT/STTT.pdf">PDF</a> (DOI:10.1007/s10009-014-0318-1)
 
 *    Huixing Fang, Jian Guo, Huibiao Zhu, Jianqi Shi: Formal Verification and Simulation: Co-verification for Subway Control Systems. TASE 2012: 145-152 <a href="assets/files/TASE2012/Formal Verification and Simulation Co-Verification for Subway Control Systems.PDF">PDF</a>
 
