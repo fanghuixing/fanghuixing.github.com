@@ -54,7 +54,7 @@ img_url: http://fanghuixing.github.com/assets/images
 
 *   Haixing Yan, Huixing Fang, Christian Kuka, Huibiao Zhu: Verification for OAuth Using ASLan++. HASE 2015: 76-84
 
-*    Alexandre David, Huixing Fang, Kim G. Larsen, and Zhengkui Zhang: Verification and Performance Evaluation of Timed Game Strategies. FORMATS 2014
+*   Alexandre David, Huixing Fang, Kim Guldstrand Larsen, Zhengkui Zhang: Verification and Performance Evaluation of Timed Game Strategies. FORMATS 2014: 100-114
 
 *    Huixing Fang, Jianqi Shi, Huibiao Zhu, Jian Guo, Kim Guldstrand Larsen, Alexandre David: Formal Verification and Simulation for Platform Screen Doors and Collision Avoidance in Subway Control Systems. International Journal on Software Tools for Technology Transfer (STTT), Springer Berlin Heidelberg, 2014 <a href="/assets/files/STTT/STTT.pdf">PDF</a> (DOI:10.1007/s10009-014-0318-1)
 
