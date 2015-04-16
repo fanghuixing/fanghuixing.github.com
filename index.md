@@ -50,8 +50,9 @@ img_url: http://fanghuixing.github.com/assets/images
 ***
 	
 ###Publications:
-*   Huixing Fang, Huibiao Zhu, Jianqi Shi: An Object-Oriented Language for Modeling of Hybrid Systems. (Accepted by HASE 2015, <a href="assets/files/Apricot/Apricot.pdf"> PDF</a>)
+*   Huixing Fang, Huibiao Zhu, Jianqi Shi: An Object-Oriented Language for Modeling of Hybrid Systems. HASE 2015: 1-9 <a href="assets/files/Apricot/Apricot.pdf"> PDF</a>
 
+*   Haixing Yan, Huixing Fang, Christian Kuka, Huibiao Zhu: Verification for OAuth Using ASLan++. HASE 2015: 76-84
 
 *    Alexandre David, Huixing Fang, Kim G. Larsen, and Zhengkui Zhang: Verification and Performance Evaluation of Timed Game Strategies. FORMATS 2014
 
