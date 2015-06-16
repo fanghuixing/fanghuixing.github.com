@@ -85,6 +85,7 @@ img_url: http://fanghuixing.github.com/assets/images
 ***
 
 ###Links:
+[Template]: http://pan.baidu.com/s/1qW9OD44 "PhD Thesis Template for ECNU"
 [google]: http://google.com/        "Google"
 [ictac]: http://ictac2013.ecnu.edu.cn/index.htm   "ICTAC"
 [dblp]: http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fang:Huixing.html   "DBLP"
@@ -97,7 +98,7 @@ img_url: http://fanghuixing.github.com/assets/images
 [apricot]: http://www.apricotresearch.com/ "Apricot"
 [zdic]: http://www.zdic.net/ "ZDIC"
 [game]: game.html "GAME"
-*  [Google][],    [ICTAC][],  [DBLP][], [LinkedIn][],   [PSTricks][],  [Tikz][], [Hui Culture][],  [map24][],  [GeoGebra][],  [Apricot][],  [ZDIC][],  [GAME][]
+*  [Google][],    [ICTAC][],  [DBLP][], [LinkedIn][],   [PSTricks][],  [Tikz][], [Hui Culture][],  [map24][],  [GeoGebra][],  [Apricot][],  [ZDIC][],  [GAME][],  [PhD Thesis Template for ECNU][]
 
 ***
 
