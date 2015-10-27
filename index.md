@@ -9,7 +9,7 @@ img_url: http://fanghuixing.github.com/assets/images
 <img src="assets/images/13238568880001740m.jpg" style="FLOAT: right; MARGIN-BOTTOM: 10px; MARGIN-RIGHT: 20px">
 
 
-###Huixing Fang 
+###Huixing Fang (方徽星)
 *    Email: fang.huixing at gmail.com
 
 
