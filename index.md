@@ -25,7 +25,7 @@ img_url: http://fanghuixing.github.com/assets/images
 
 **Java Software Engineer**
 
-**AOLC, November 2015 – April 2016 **
+**AOLC, November 2015 – April 2016**
 
 *   WEB APP DEV
 
