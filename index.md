@@ -22,6 +22,14 @@ img_url: http://fanghuixing.github.com/assets/images
 
 ## Previous:
 
+
+**Java Software Engineer**
+
+**AOLC, November 2015 – April 2016 **
+
+*   WEB APP DEV
+
+
 **Software Engineer**
 
 **Shanghai NANTIAN Computer System Co.,Ltd, July 2006 - June 2009 (3 years) Shanghai,China**
