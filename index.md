@@ -89,17 +89,17 @@ img_url: http://fanghuixing.github.com/assets/images
 ***
 
 ## Links:
-[PhD Thesis Template for ECNU](http://pan.baidu.com/s/1qW9OD44) 
-[dblp](http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fang:Huixing.html)
-[linkedin](http://cn.linkedin.com/pub/huixing-fang/3a/1b2/31)
-[PSTricks](http://tug.org/PSTricks/)
-[tikz](http://www.texample.net/tikz/)
-[Hui Culture](http://www.go2huangshan.com/info/12.aspx)
-[MAP24](http://www.dk.map24.com/)
-[geogebra](http://www.geogebratube.org/)
-[apricot](http://www.apricotresearch.com/)
-[zdic](http://www.zdic.net/)
-[game](game.html)
+[PhD Thesis Template for ECNU](http://pan.baidu.com/s/1qW9OD44); 
+[dblp](http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fang:Huixing.html);
+[linkedin](http://cn.linkedin.com/pub/huixing-fang/3a/1b2/31);
+[PSTricks](http://tug.org/PSTricks/);
+[tikz](http://www.texample.net/tikz/);
+[Hui Culture](http://www.go2huangshan.com/info/12.aspx);
+[MAP24](http://www.dk.map24.com/);
+[geogebra](http://www.geogebratube.org/);
+[apricot](http://www.apricotresearch.com/);
+[zdic](http://www.zdic.net/);
+[game](game.html).
 
 ***
 
