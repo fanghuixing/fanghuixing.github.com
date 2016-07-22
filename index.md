@@ -15,8 +15,8 @@ img_url: http://fanghuixing.github.com/assets/images
 
 ###Present:
 
-*    Student at East China Normal University, September 2010 - Present
-*    He is a Ph.D student in Software Engineering Institute, East China Normal University, Shanghai, China. His interests range from programming languages, machine learning to program analysis and the formal verification and simulation on hybrid systems. Before the Ph.D study in ECNU, he was a developer of the ATM (Automatic Teller Machine) software for various Chinese banks.
+*    Software Engineer at East China Normal University, since May 2016
+*    He was a Ph.D student in Software Engineering Institute, East China Normal University, Shanghai, China. His interests range from programming languages, machine learning to program analysis and the formal verification and simulation on hybrid systems. Before the Ph.D study in ECNU, he was a developer of the ATM (Automatic Teller Machine) software for various Chinese banks.
 
 ***
 
@@ -39,7 +39,7 @@ img_url: http://fanghuixing.github.com/assets/images
 *    East China Normal University:
      
 	 MS, Model Checking, PhD
-     2010 - 2015 (expected)
+     2010 - 2016
 	
 *    Yunnan University:
      
@@ -50,6 +50,10 @@ img_url: http://fanghuixing.github.com/assets/images
 ***
 	
 ###Publications:
+*   Huixing Fang, Huibiao Zhu, Jifeng He: SMT-Based Symbolic Encoding and Formal Analysis of HML Models. MONET 21(1): 35-52 (2016)
+
+*   Yuan Fei, Huibiao Zhu, Xi Wu, Huixing Fang: Comparative Modeling and Verification of Pthreads and Dthreads. HASE 2016: 132-140
+
 *   Huixing Fang, Huibiao Zhu, Jianqi Shi: An Object-Oriented Language for Modeling of Hybrid Systems. HASE 2015: 1-9 <a href="assets/files/Apricot/Apricot.pdf"> PDF</a>
 
 *   Haixing Yan, Huixing Fang, Christian Kuka, Huibiao Zhu: Verification for OAuth Using ASLan++. HASE 2015: 76-84
