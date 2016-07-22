@@ -9,18 +9,18 @@ img_url: http://fanghuixing.github.com/assets/images
 <img src="assets/images/13238568880001740m.jpg" style="FLOAT: right; MARGIN-BOTTOM: 10px; MARGIN-RIGHT: 20px">
 
 
-###Huixing Fang (方徽星)
+## Huixing Fang (方徽星)
 *    Email: fang.huixing at gmail.com
 
 
-###Present:
+## Present:
 
 *    Software Engineer at East China Normal University, since May 2016
 *    He was a Ph.D student in Software Engineering Institute, East China Normal University, Shanghai, China. His interests range from programming languages, machine learning to program analysis and the formal verification and simulation on hybrid systems. Before the Ph.D study in ECNU, he was a developer of the ATM (Automatic Teller Machine) software for various Chinese banks.
 
 ***
 
-###Previous:
+## Previous:
 
 **Software Engineer**
 
@@ -34,7 +34,7 @@ img_url: http://fanghuixing.github.com/assets/images
 
 ***
 
-###Education:
+## Education:
 
 *    East China Normal University:
      
@@ -49,7 +49,7 @@ img_url: http://fanghuixing.github.com/assets/images
 	 
 ***
 	
-###Publications:
+## Publications:
 *   Huixing Fang, Huibiao Zhu, Jifeng He: SMT-Based Symbolic Encoding and Formal Analysis of HML Models. MONET 21(1): 35-52 (2016)
 
 *   Yuan Fei, Huibiao Zhu, Xi Wu, Huixing Fang: Comparative Modeling and Verification of Pthreads and Dthreads. HASE 2016: 132-140
@@ -77,7 +77,7 @@ img_url: http://fanghuixing.github.com/assets/images
 
 ***
 
-###Drafts:
+## Drafts:
 
 
 * Huixing Fang, Huibiao Zhu, Jianqi Shi: Formal Verification of Hybrid Systems by Apricot. 
@@ -88,21 +88,18 @@ img_url: http://fanghuixing.github.com/assets/images
 
 ***
 
-###Links:
-[PhD Thesis Template for ECNU]: http://pan.baidu.com/s/1qW9OD44      "PhD Thesis Template for ECNU"
-[google]: http://google.com/        "Google"
-[ictac]: http://ictac2013.ecnu.edu.cn/index.htm   "ICTAC"
-[dblp]: http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fang:Huixing.html   "DBLP"
-[linkedin]: http://cn.linkedin.com/pub/huixing-fang/3a/1b2/31    "LinkedIn"
-[PSTricks]: http://tug.org/PSTricks/    "PSTricks"
-[tikz]: http://www.texample.net/tikz/ "Tikz and PGF"
-[Hui Culture]: http://www.go2huangshan.com/info/12.aspx "Hui Culture"
-[MAP24]: http://www.dk.map24.com/ "map24"
-[geogebra]: http://www.geogebratube.org/ "GeoGebra"
-[apricot]: http://www.apricotresearch.com/ "Apricot"
-[zdic]: http://www.zdic.net/ "ZDIC"
-[game]: game.html "GAME"
-*  [Google][],    [ICTAC][],  [DBLP][], [LinkedIn][],   [PSTricks][],  [Tikz][], [Hui Culture][],  [map24][],  [GeoGebra][],  [Apricot][],  [ZDIC][],  [GAME][],  [PhD Thesis Template for ECNU][]
+## Links:
+[PhD Thesis Template for ECNU) (http://pan.baidu.com/s/1qW9OD44) 
+[dblp] (http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fang:Huixing.html)
+[linkedin] (http://cn.linkedin.com/pub/huixing-fang/3a/1b2/31)
+[PSTricks] (http://tug.org/PSTricks/)
+[tikz] (http://www.texample.net/tikz/)
+[Hui Culture] (http://www.go2huangshan.com/info/12.aspx)
+[MAP24] (http://www.dk.map24.com/)
+[geogebra] (http://www.geogebratube.org/)
+[apricot] (http://www.apricotresearch.com/)
+[zdic] (http://www.zdic.net/)
+[game] (game.html)
 
 ***
 
