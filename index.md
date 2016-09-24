@@ -108,7 +108,7 @@ img_url: http://fanghuixing.github.com/assets/images
 [apricot](http://www.apricotresearch.com/);
 [zdic](http://www.zdic.net/);
 [game](game.html).
-
+[CV](http://pan.baidu.com/s/1hrJ9z7m)
 ***
 
 <img src="assets/images/name.jpg" style="FLOAT: right; MARGIN-BOTTOM: 0px; MARGIN-right: 5px;height: 30px;width: 82px;">
