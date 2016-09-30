@@ -108,7 +108,7 @@ img_url: http://fanghuixing.github.com/assets/images
 [apricot](http://www.apricotresearch.com/);
 [zdic](http://www.zdic.net/);
 [game](game.html).
-[CV](http://pan.baidu.com/s/1hrJ9z7m)
+[CV](/assets/files/华东师范大学-方徽星-简历.pdf)
 
 ***
 
