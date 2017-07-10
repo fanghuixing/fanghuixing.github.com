@@ -46,7 +46,7 @@ img_url: http://fanghuixing.github.com/assets/images
 
 *    East China Normal University:
      
-	 MS, Model Checking, PhD
+	 Software Engineering, Formal Methods, PhD
      2010 - 2016
 	
 *    Yunnan University:
