@@ -3,7 +3,7 @@
 markdown: kramdown
 permalink: /:year/:month/:day/:title 
 auto: true
-pygments: true
+highlighter: rouge
 var:
   archive_path: /archive.html
   categories_path : /categories.html
