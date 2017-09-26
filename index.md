@@ -85,10 +85,6 @@ img_url: http://fanghuixing.github.com/assets/images
 
 ***
 
-## Drafts:
-
-
-* Huixing Fang, Jifeng He, Qiwen Xu, Huibiao Zhu, Longfei Zhu: Formal Modelling and Verification of Hybrid Systems by Hybrid Relational Approach. (See <a href="/assets/files/HML/HML.pdf">PDF</a>)
 
 
 ***
