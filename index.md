@@ -58,7 +58,7 @@ img_url: http://fanghuixing.github.com/assets/images
 ***
 	
 ## Publications:
-*   Yuan Fei, Huibiao Zhu, Xi Wu, Huixing Fang, Shengchao Qin: Comparative modelling and verification of Pthreads and Dthreads. Journal of Software : Evolution and Process. 33 pages. November 2017 (https://doi.org/10.1002/smr.1919)
+*   Yuan Fei, Huibiao Zhu, Xi Wu, Huixing Fang, Shengchao Qin: Comparative modelling and verification of Pthreads and Dthreads. Journal of Software : Evolution and Process. 33 pages. November 2017 (https://doi.org/10.1002/smr.1919)
 
 *   Huixing Fang, Huibiao Zhu, Jifeng He: SMT-Based Symbolic Encoding and Formal Analysis of HML Models. MONET 21(1): 35-52 (2016) <a href="/assets/files/HML/MONET2016.pdf">PDF</a>
 
