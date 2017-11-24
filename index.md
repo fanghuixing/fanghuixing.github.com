@@ -23,6 +23,7 @@ img_url: http://fanghuixing.github.com/assets/images
 ## Previous:
 
 **Assistant Researcher**
+
 **National Trusted Embedded Software Engineering Technology Research Center, Software Engineering Institute, East China Normal University, May 2016 – July 2017**
 
 
