@@ -15,7 +15,7 @@ img_url: http://fanghuixing.github.com/assets/images
 
 ## Present:
 
-*    Researcher at East China Normal University, since May 2016
+*    Lecturer at Yangzhou University, since Sep 2017
 *    He was a Ph.D student in Software Engineering Institute, East China Normal University, Shanghai, China. His interests range from programming languages, machine learning to program analysis and the formal verification and simulation on hybrid systems. Before the Ph.D study in ECNU, he was a developer of the ATM (Automatic Teller Machine) software for various Chinese banks.
 
 ***
