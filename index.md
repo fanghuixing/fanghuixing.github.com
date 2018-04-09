@@ -107,7 +107,7 @@ img_url: http://fanghuixing.github.com/assets/images
 [geogebra](http://www.geogebratube.org/);
 [apricot](http://www.apricotresearch.com/);
 [zdic](http://www.zdic.net/);
-[game](game.html).
+[game](game.html);
 [Teaching](teaching).
 
 
