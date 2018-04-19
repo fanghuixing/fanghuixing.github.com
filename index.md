@@ -108,7 +108,8 @@ img_url: http://fanghuixing.github.com/assets/images
 [apricot](http://www.apricotresearch.com/);
 [zdic](http://www.zdic.net/);
 [game](game.html);
-[Teaching](teaching).
+[Teaching](teaching);
+[Cover Search](http://covers.springernature.com/search/CoverSearch.html).
 
 
 ***
