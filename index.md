@@ -92,6 +92,10 @@ img_url: http://fanghuixing.github.com/assets/images
 
 ***
 
+## Teaching:
+[Formal Analysis and Verification](teaching/#fav);
+[Compilers](teaching/#cp);
+
 
 
 ***
