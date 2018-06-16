@@ -113,7 +113,8 @@ img_url: http://fanghuixing.github.com/assets/images
 [zdic](http://www.zdic.net/);
 [game](game.html);
 [Teaching](teaching);
-[Cover Search](http://covers.springernature.com/search/CoverSearch.html).
+[Cover Search](http://covers.springernature.com/search/CoverSearch.html);
+[Detexify](http://detexify.kirelabs.org/classify.html).
 
 
 ***
