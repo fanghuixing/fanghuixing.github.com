@@ -10,7 +10,7 @@ img_url: http://fanghuixing.github.com/assets/images
 
 
 ## Huixing Fang (方徽星)
-*    Email: fang.huixing at gmail.com
+*    Email: fanghuixing@hotmail.com
 
 
 ## Present:
