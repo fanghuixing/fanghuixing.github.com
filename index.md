@@ -97,6 +97,9 @@ img_url: http://fanghuixing.github.com/assets/images
 
 *   [Compilers](teaching/#cp);
 
+*   [Computer Network Programming](teaching/#np);
+
+
 
 
 ***
