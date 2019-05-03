@@ -15,12 +15,15 @@ img_url: http://fanghuixing.github.com/assets/images
 
 ## Present:
 
-*    Lecturer at Yangzhou University, since September 2017
+*    Lecturer at Huangshan University, since March  2019.
 *    He was a Ph.D student in Software Engineering Institute, East China Normal University, Shanghai, China. His interests range from programming languages, machine learning to program analysis and the formal verification and simulation on hybrid systems. Before the Ph.D study in ECNU, he was a developer of the ATM (Automatic Teller Machine) software for various Chinese banks.
 
 ***
 
 ## Previous:
+
+
+**Lecturer at Yangzhou University, From September 2017 to February 2019**
 
 **Assistant Researcher (Temporary)**
 
