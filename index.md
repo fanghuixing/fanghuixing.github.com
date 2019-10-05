@@ -103,7 +103,7 @@ img_url: http://fanghuixing.github.com/assets/images
 *   [Computer Network Programming](teaching/#np);
 
 
-
+*   [Object-Oriented Programming I](teaching/#java)
 
 ***
 
