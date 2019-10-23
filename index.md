@@ -121,7 +121,8 @@ img_url: http://fanghuixing.github.com/assets/images
 [game](game.html);
 [Teaching](teaching);
 [Cover Search](http://covers.springernature.com/search/CoverSearch.html);
-[Detexify](http://detexify.kirelabs.org/classify.html).
+[Detexify](http://detexify.kirelabs.org/classify.html);
+[Movie](https://www.bilibili.com/video/av67880860?from=search&seid=16191380694475815638).
 
 
 ***
