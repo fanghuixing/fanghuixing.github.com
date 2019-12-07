@@ -66,6 +66,8 @@ img_url: http://fanghuixing.github.com/assets/images
 	
 ## Publications:
 
+*   Zuxi Chen ; Huixing Fang ; Xiangyu Luo: Optimized Step Semantics Encoding for Bounded Model Checking of Timed Automata. TASE, pp. 93~98. July 2019. <a href="/assets/files/TASE/Tase-2019.pdf">PDF</a>
+
 *   Yuan Fei, Huibiao Zhu, Xi Wu, Huixing Fang, Shengchao Qin: Comparative modelling and verification of Pthreads and Dthreads. Journal of Software : Evolution and Process. 33 pages. November 2017 <a href="https://doi.org/10.1002/smr.1919">View</a>
 
 *   Huixing Fang, Huibiao Zhu, Jifeng He: SMT-Based Symbolic Encoding and Formal Analysis of HML Models. MONET 21(1): 35-52 (2016) <a href="/assets/files/HML/MONET2016.pdf">PDF</a>
